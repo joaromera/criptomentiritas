@@ -9,4 +9,5 @@ Para ejecutar el programa:
 Y luego:
 
 > ./pruebacorta.sh
+
 > ./prueba.sh
