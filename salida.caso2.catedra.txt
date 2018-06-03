@@ -1,0 +1,18 @@
+>>>>>>>>>>>>>>>> PROBANDO APPLY
+Encode:jhqty'qmy+pr{pƒzswƒ5‚|‚ˆ;•=‘„@‚…ˆ–ˆ‡G”ŠJ“›ŸO”–R—™©›¥«¨ª¯]Ÿ_²¦¨¯©½¯¶¶ª¼k¿¼°Áµq¾ÂÇuÊ¼ËÍÍ
+Decode:fbijma[eXX_RcXOQ[VNRVY]UF
+>>>>>>>>>>>>>>>> PROBANDO ENCODE DECODE
+Encode:jhqty'qmy+pr{pƒzswƒ5‚|‚ˆ;•=‘„@‚…ˆ–ˆ‡G”ŠJ“›ŸO”–R—™©›¥«¨ª¯]Ÿ_²¦¨¯©½¯¶¶ª¼k¿¼°Áµq¾ÂÇuÊ¼ËÍÍ
+Decode:fbijma[eXX_RcXOQ[VNRVY]UF
+>>>>>>>>>>>>>>>> PROBANDO FILTER_BY_TYPE
+Encode:ljsv{)so{-rt}r
+Decode:hdkloc]gZZaTeZQS]XPTX[_WHBCDP@=ûF:ø?EG5ó66ð33A19/;669å%ã4&&+#5%*(*×)$%Ñ!Í 
+>>>>>>>>>>>>>>>> FILTRANDO
+Encode:jhqty'qmy+pr{pƒzswƒ5‚|‚ˆ;•=‘„@‚…ˆ–ˆ‡G”ŠJ“›ŸO”–R—™©›¥«¨ª¯]Ÿ_²¦¨¯©½¯¶¶ª¼k¿¼°Áµq¾ÂÇuÊ¼ËÍÍ
+Decode:fbijma[eXX_RcXOQ[VNRVY]UF
+>>>>>>>>>>>>>>>> PROBANDO INVERT
+Encode:ljsv{)so{-rt}r
+Decode:hdkloc]gZZaTeZQS]XPTX[_WHBCDP@=ûF:ø?EG5ó66ð33A19/;669å%ã4&&+#5%*(*×)$%Ñ!Í 
+>>>>>>>>>>>>>>>> INVIRTIENDO
+Encode:hdkloc]gZZaTeZQS]XPTX[_WHBCDP@=
+Decode:ljsv{)so{-rt}r…|uy…7„~„Š=—?“†B„‡Š˜Š‰I–ŒL•¡‘Q–˜T™›«§Ÿ­ª¬±_¡a´¨ª±«¿±¸¸¬¾mÁ¾²Ã·sÀÄÉwÌ¾ÍÏÏ

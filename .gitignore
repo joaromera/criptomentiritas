@@ -1,0 +1,11 @@
+# binaries
+main
+tester
+
+# object files
+*.o
+
+# output files
+salida.caso1.txt
+salida.caso2.txt
+salida.casoN.txt

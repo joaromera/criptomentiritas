@@ -1,0 +1,89 @@
+>>>>>>>>>>>>>>>> PROBANDO LISTA 1 ELEMENTO
+List length:0
+>>>>>>>>>>>>>>>> LISTA 1 DESTRUIDA
+>>>>>>>>>>>>>>>> PROBANDO LISTA 1 ELEMENTO 1 NODO 
+List length:1
+	node type:reversible
+>>>>>>>>>>>>>>>> LISTA 1 DESTRUIDA
+>>>>>>>>>>>>>>>> PROBANDO NODO 
+>>>>>>>>>>>>>>>> NODO DESTRUIDO
+>>>>>>>>>>>>>>>> PROBANDO CLAVE 
+>>>>>>>>>>>>>>>> CLAVE DESTRUIDA
+>>>>>>>>>>>>>>>> PROBANDO STR_LEN 
+15
+>>>>>>>>>>>>>>>> PROBANDO STR_COPY / STR_CMP
+OK
+OK
+OK
+OK
+OK
+>>>>>>>>>>>>>>>> PROBANDO OPERACIONES
+shift_2:jgoqu"kfq"fgocukcfq"nglqu"{"ug"cegtec"nc"jqtc"fg"fgvgpgtpqu"c"tghngzkqpct"uqdtg"nqu"vguvu
+unshift_2:fckmqgbmbck_qg_bmjchmqwqc_acpa_j_fmp_bcbcrclcplmq_pcdjcvgml_pqm`pcjmqrcqrq
+shift_position:hforw%okw)npynxqu3€z€†‹9“;‚>€ƒ†”†…E’ˆH‘™M’”P•—§™£›©¦¨­[]°¤¦­§»­´´¨ºi½º®¿³o¼ÀÅsÈºÉËË
+unshift_position:hforw%okw)npynxqu3€z€†‹9“;‚>€ƒ†”†…E’ˆH‘™M’”P•—§™£›©¦¨­[]°¤¦­§»­´´¨ºi½º®¿³o¼ÀÅsÈºÉËË
+saturate_2:jgoqu"kfq"fgocukcfq"nglqu"{"ug"cegtec"nc"jqtc"fg"fgvgpgtpqu"c"tghngzkqpct"uqdtg"nqu"vguvu
+unsaturate_2:fckmqgbmbck_qg_bmjchmqwqc_acpa_j_fmp_bcbcrclcplmq_pcdjcvgml_pqm`pcjmqrcqrq
+saturate_position:hforw%okw)npynxqu3€z€†‹9“;‚>€ƒ†”†…E’ˆH‘™M’”P•—§™£›©¦¨­[]°¤¦­§»­´´¨ºi½º®¿³o¼ÀÅsÈºÉËË
+unsaturate_position:hdkloc]gZZaTeZQS]XPTX[_WHBCDP@=
+>>>>>>>>>>>>>>>> PROBANDO ENCODE DECODE
+Encode:jgoqu"kfq"fgocukcfq"nglqu"{"ug"cegtec"nc"jqtc"fg"fgvgpgtpqu"c"tghngzkqpct"uqdtg"nqu"vguvu
+Decode:fckmqgbmbck_qg_bmjchmqwqc_acpa_j_fmp_bcbcrclcplmq_pcdjcvgml_pqm`pcjmqrcqrq
+>>>>>>>>>>>>>>>> PROBANDO FILTER_BY_TYPE
+Encode:liqsw$mhs$hiqewmehs$pinsw$}$wi$egivge$pe$lsve$hi$hixirivrsw$e$vijpi|msrev$wsfvi$psw$xiwxw
+Decode:hemos ido demasiado lejos y se acerca la hora de detenernos a reflexionar sobre los tests
+>>>>>>>>>>>>>>>> FILTRANDO
+Encode:jgoqu"kfq"fgocukcfq"nglqu"{"ug"cegtec"nc"jqtc"fg"fgvgpgtpqu"c"tghngzkqpct"uqdtg"nqu"vguvu
+Decode:fckmqgbmbck_qg_bmjchmqwqc_acpa_j_fmp_bcbcrclcplmq_pcdjcvgml_pqm`pcjmqrcqrq
+>>>>>>>>>>>>>>>> PROBANDO INVERT
+Encode:liqsw$mhs$hiqewmehs$pinsw$}$wi$egivge$pe$lsve$hi$hixirivrsw$e$vijpi|msrev$wsfvi$psw$xiwxw
+Decode:hemos ido demasiado lejos y se acerca la hora de detenernos a reflexionar sobre los tests
+>>>>>>>>>>>>>>>> INVIRTIENDO
+Encode:hemos ido demasiado lejos y se acerca la hora de detenernos a reflexionar sobre los tests
+Decode:liqsw$mhs$hiqewmehs$pinsw$}$wi$egivge$pe$lsve$hi$hixirivrsw$e$vijpi|msrev$wsfvi$psw$xiwxw
+>>>>>>>>>>>>>>>> PROBANDO LENGTH
+0
+2
+4
+6
+>>>>>>>>>>>>>>>> PROBANDO ADD NODE AT
+List length:3
+	node type:irreversible
+	node type:reversible
+	node type:irreversible
+List length:4
+	node type:irreversible
+	node type:reversible
+	node type:irreversible
+	node type:irreversible
+List length:4
+	node type:irreversible
+	node type:reversible
+	node type:irreversible
+	node type:irreversible
+>>>>>>>>>>>>>>>> PROBANDO REMOVE NODE AT
+List length:3
+	node type:irreversible
+	node type:reversible
+	node type:irreversible
+List length:2
+	node type:reversible
+	node type:irreversible
+List length:1
+	node type:reversible
+>>>>>>>>>>>>>>>> PROBANDO INVERT ORDER
+List length:4
+	node type:reversible
+	node type:irreversible
+	node type:reversible
+	node type:irreversible
+List length:4
+	node type:reversible
+	node type:irreversible
+	node type:reversible
+	node type:irreversible
+>>>>>>>>>>>>>>>> PROBANDO ODD PRIME
+Encode:hgmqs"ifo"dgmcskafo"lgjqs"y"sg ccgrea"lc jota"dg fevepetnqs"a"rgfneziqncr"sqbte"lqs"tgsvs
+Decode:hcmmsibodcm_sgabolcjmsysc _ccraal_ fopadc berelepnmsarcfjevimn_rsmbpelmstcsrs
+Encode:heors%iko dpmnsiauo3lej†s y s‚ €cercaEla ‘oa d” dete£ernos[a]refle»ion¨risobreolosstests
+Decode:heklsi]o dZmTsiaSolejXs y sH Bcercaûla ?oGa d6 dete9ernosåaãrefle5ionr×sobreÑlosÍtests
